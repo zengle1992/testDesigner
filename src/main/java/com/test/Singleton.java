@@ -9,6 +9,7 @@ public class Singleton {
 
 
         System.out.println(222);
+        System.out.println("develop分支");
     }
 
 
